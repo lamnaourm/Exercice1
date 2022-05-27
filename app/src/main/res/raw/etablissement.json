@@ -1,0 +1,32 @@
+{
+  "nom": "ISMO TETOUAN",
+  "adresse": "Martil",
+  "tel" : "0539785690",
+  "filieres": [
+    {
+      "code": "TDI",
+      "nomComplet": "Techniques de developpement informatique",
+      "duree": 2
+    },
+    {
+      "code": "TRI",
+      "nomComplet": "Techniques des reseaux informatique",
+      "duree": 2
+    },
+    {
+      "code": "INFO",
+      "nomComplet": "INFOGRAPHIE",
+      "duree": 2
+    },
+    {
+      "code": "CRJJ",
+      "nomComplet": "Formation JAVA",
+      "duree": 0.5
+    },
+    {
+      "code": "BCMOS",
+      "nomComplet": "BUREAUTIQUE",
+      "duree": 0.5
+    }
+  ]
+}
